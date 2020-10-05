@@ -2,7 +2,6 @@
 bootstrap sticky footer ref: https://getbootstrap.com/docs/4.0/examples/ 
 */
 .footer {
-    position: absolute;
     bottom: 0;
     width: 100%;
     height: 60px; /* Set the fixed height of the footer here */
